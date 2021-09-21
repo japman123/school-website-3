@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.menu {
+    background-color: white;
+    width: 100%;
+    margin-top: 0px;
+    list-style: none;
+    top: 0px;
+    position: fixed;
+    z-index: 20;
+    cursor: pointer;
+}
+
+#carousel1 {
+    background-color: cornflowerblue;
+
+}
+
+#carousel1 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    color: orangered;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+#i1 {
+    height: 450;
+    width: 450;
+}
+
+#imgrow {
+    height:150px;
+    width:150px;
+}
+#div1
+{
+    margin-bottom: 5px;
+}
+#div2
+{
+    margin-top: 5px;
+}
